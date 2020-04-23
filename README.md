@@ -1,7 +1,7 @@
-Now!
+Now! ![Alt text](icon57.png?raw=true "Now!")
 ====
+2008/09: iOS app introducing live geo social networking 
 
-iOS app introducing live geo social networking 
 
 Background
 ==========
