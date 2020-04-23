@@ -1,15 +1,15 @@
-Now! ![Alt text](icon57.png?raw=true "Now!")
+Now!     ![Alt text](icon57.png?raw=true "Now!")
 ====
 2008/09: iOS app introducing live geo social networking 
-
 
 Background
 ==========
 
 This was my first iOS app released in the app store September 2008. The backend database was a custome Google App Engine.
 
-Original Description
+Original Description 
 ====================
+
 Now! Lets you post and search geo coordinates of time critical items.  Post items you are witnessing in real time and all other interested parties in your vicinity will be able to search, see and get directions to your discovery instantly.  Say good-by to static maps that keep track of stale data, Now! only shows you freshest user contributed information going on Now! 
 
 Examples of categories and items you should post with Now!
